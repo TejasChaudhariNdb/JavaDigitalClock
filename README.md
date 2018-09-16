@@ -12,5 +12,5 @@
 * Mail:- tejaschaudhari038@gmail.com
 * Phone :- +91 9158110065
 <hr>
-<i>Love And Joy</i>
+<i style="color:royalblue">Love And Joy</i>
 
