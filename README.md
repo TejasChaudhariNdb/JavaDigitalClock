@@ -5,7 +5,7 @@
 *java.util.; <br>
 *java.text.; <br>
 *java.awt 
-<hr>
+
 # Developers Info 
 <br>
 * Made By Tejas Sanjay Chaudhari <br>
