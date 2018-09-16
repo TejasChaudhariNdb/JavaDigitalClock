@@ -90,5 +90,5 @@ To run the project from the command line, go to the dist folder and type the fol
 java  "time.java" 
  
 # ScreenShoot
+![javaDigital](jtejas.png "Description goes here")
 
-jtejas.png
