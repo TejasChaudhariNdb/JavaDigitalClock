@@ -8,10 +8,10 @@
 
 # Developers Info 
 <br>
-  <b> Made By Tejas Sanjay Chaudhari</b>
-  <b>  Co-Founder :-kiranazone.com </b>
- <b> Mail:-  tejaschaudhari038@gmail.com </b>
- <b> Phone :- +91 9158110065</b> 
+   Made By:- <b>Tejas Sanjay Chaudhari</b>
+   Co-Founder :- <b> kiranazone.com </b>
+  Mail:-  <b>  tejaschaudhari038@gmail.com </b>
+   Phone :- <b> <a href="tel:9158110065">+91 9158110065</a></b> 
 <hr>
 <center><i style="color:royalblue">Love And Joy</i>
 </center>
